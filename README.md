@@ -6,7 +6,7 @@ The file is meant to be understood in a simple and effective way.
 
 <h3>EasyChat or MediumChat?</h3>
 
-This all separated by two lists below will explain each one:
+You see that has 2 folders: EasyChat and MediumChat, I will explain the difference below:
 
 <b>EasyChat -></b> is a chat created to beginners, since it has a simple code to understand and easy to use.
 
