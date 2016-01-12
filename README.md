@@ -20,6 +20,8 @@ To configure host in WebSockets open aplicacao.js and find the <code>var host = 
 
 To configure host in PHP Sockets open server.php and find the <code>$adr = "localhost"; $port = 8080;</code> in my case is running in localhost in port 8080.
 
+<blockquote>If you are using the <b>MediumChat</b>, you need to open server.php file and go to the last line code and find <code>$Server->wsStartServer('127.0.0.1', 8080);</code> 127.0.0.1 is your localhost and 8080 is the port</blockquote>
+
 (The port and address need to be the same - If the websockets is in port 6570, php sockets need to be in port 6570)
 
 
