@@ -4,6 +4,14 @@ Here we will see how to create a websocket server working with a php sockets.
 
 The file is meant to be understood in a simple and effective way.
 
+<h3>EasyChat or MediumChat?</h3>
+
+This all separated by two lists below will explain each one:
+
+<b>EasyChat -></b> is a chat created to beginners, since it has a simple code to understand and easy to use.
+
+<b>MediumChat -></b> is a chat created for people with intermediate level of knowledge of PHP, this is separated by classes and complex functions.
+
 <h3>How to setup?</h3>
 
 Testing in your local apache all ports are avaiable (I hope so).
